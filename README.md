@@ -19,3 +19,6 @@ HTML 📄 – Structure
 Tailwind CSS 🎨 – Styling & responsive design
 
 JavaScript 💻 – Theme switching logic
+
+## Live Demo 🚀
+Check out the live version here: [Live Demo](https://farzinizraf.github.io/Theme-Switcher/)
