@@ -24,4 +24,4 @@ JavaScript 💻 – Theme switching logic
 Check out the live version here: [Live Demo](https://farzinizraf.github.io/Theme-Switcher/)
 
 Result Preview 📸
-[Theme Changer Demo](https://github.com/FarzinizraF/Theme-Switcher/blob/main/Dark%20&%20Light%20Theme%20Changer.gif?raw=true))
+[Theme Changer Demo](https://github.com/FarzinizraF/Theme-Switcher/blob/main/Dark%20&%20Light%20Theme%20Changer.gif?raw=true)
